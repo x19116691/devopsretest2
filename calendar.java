@@ -1,1 +1,1 @@
-print("My message here");
+System.Out.println("My message here");
