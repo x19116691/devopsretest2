@@ -4,6 +4,7 @@
   "description": "for heroku workflow",
   "main": "index.js",
   "scripts": {
+    "start" : "node index.js"
     "test": "json upload"
   },
   "repository": {
