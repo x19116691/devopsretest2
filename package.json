@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start" : "node index.js"
-    "test": "json upload"
+    "test": "json upload",
   },
   "repository": {
     "type": "git",
