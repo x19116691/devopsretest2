@@ -1,0 +1,15 @@
+{
+  "name": "devopsretest2",
+  "version": "1.0.0",
+  "description": "for heroku workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "json upload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "devopsretest2"
+  },
+  "author": "conor corboy",
+  "license": "ISC"
+}
